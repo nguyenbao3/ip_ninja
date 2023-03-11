@@ -1,1 +1,1 @@
-SeverBảovip:0.tcp.ap.ngrok.io:16488:0:0
+SeverBảovip:0.tcp.ap.ngrok.io:10137:0:0
